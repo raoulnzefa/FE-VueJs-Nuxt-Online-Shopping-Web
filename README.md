@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nuxt-ecommerce
 
 ## Build Setup
@@ -67,3 +68,6 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# FE-VueJs-Nuxt-Online-Shopping-Web
+>>>>>>> e5611ff9d5f9fb57336d61a2d81f579eb98392a5
