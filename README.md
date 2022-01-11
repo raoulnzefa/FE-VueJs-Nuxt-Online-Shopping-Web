@@ -1,73 +1,10 @@
-<<<<<<< HEAD
-# nuxt-ecommerce
+# Fullstack-Ecommerce-1-Laravel-Nuxt-Js
 
-## Build Setup
+Build an online shop website with an integrated payment gateway Midtrans Snap Pay and RajaOngkir to get real-time and accurate shipping costs. Implementation of JWT for the authentication process in Rest API. This website consists of product search filter features, discount calculation, delivery courier selection, delivery estimate selection, shipping cost calculation, payment method selection, review features. The review feature will appear when the order payment status is successful. Website design is made using HTML, CSS, and Bootstrap with an attractive minimalist and responsive design. BE website development is made using the Laravel Framework as a web service in the form of Rest API. FE website development is made with the Nuxt.js framework and vuex whose role is to manage and use the Rest API.
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
-=======
-# FE-VueJs-Nuxt-Online-Shopping-Web
->>>>>>> e5611ff9d5f9fb57336d61a2d81f579eb98392a5
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Home.PNG?raw=true"> Home Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Studio.PNG?raw=true"> About Us Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Footer.PNG?raw=true"> Footer Page |
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Login.PNG?raw=true"> Login Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Register.PNG?raw=true"> Register Page |<img width="1604" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Products.PNG?raw=true"> Products Page | 
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Product%20Detail.PNG?raw=true"> Product Detail |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Product%20Detail%202.PNG?raw=true"> Product Related & Reviews |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Product%20Search.PNG?raw=true"> Product Search| <img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Category%20Product.PNG?raw=true">  Category Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Cart.PNG?raw=true"> Cart Page |<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Dashboard.PNG?raw=true"> Dashboard Customer Page |
+|<img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Invoices.PNG?raw=true"> Invoices Page | <img width="5000" alt="" src="https://github.com/AnnisaRizki30/BE-Laravel-8-Online-Shopping-Web/blob/master/Detail%20Order.PNG?raw=true"> Detail Order Page |
