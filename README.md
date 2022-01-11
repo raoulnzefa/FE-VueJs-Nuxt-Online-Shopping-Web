@@ -1,4 +1,4 @@
-# Fullstack-Ecommerce-1-Laravel-Nuxt-Js
+# Fullstack-Laravel-Nuxt-Js-Online-Shopping-Website
 
 Build an online shop website with an integrated payment gateway Midtrans Snap Pay and RajaOngkir to get real-time and accurate shipping costs. Implementation of JWT for the authentication process in Rest API. This website consists of product search filter features, discount calculation, delivery courier selection, delivery estimate selection, shipping cost calculation, payment method selection, review features. The review feature will appear when the order payment status is successful. Website design is made using HTML, CSS, and Bootstrap with an attractive minimalist and responsive design. BE website development is made using the Laravel Framework as a web service in the form of Rest API. FE website development is made with the Nuxt.js framework and vuex whose role is to manage and use the Rest API.
 
